@@ -10,7 +10,7 @@
 - Event listeners for button clicks
 
 ## Demo
-(Include a link to a live demo if available)](https://fatialnd.github.io/guessMyNumber.io/)
+(https://fatialnd.github.io/guessMyNumber.io/)
 
 
 
